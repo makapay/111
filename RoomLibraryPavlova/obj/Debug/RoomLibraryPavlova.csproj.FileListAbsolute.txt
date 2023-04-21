@@ -1,0 +1,6 @@
+C:\Users\student\Desktop\RoomLibraryPavlova\bin\Debug\RoomLibraryPavlova.dll
+C:\Users\student\Desktop\RoomLibraryPavlova\bin\Debug\RoomLibraryPavlova.pdb
+C:\Users\student\Desktop\RoomLibraryPavlova\obj\Debug\RoomLibraryPavlova.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\RoomLibraryPavlova\obj\Debug\RoomLibraryPavlova.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\RoomLibraryPavlova\obj\Debug\RoomLibraryPavlova.dll
+C:\Users\student\Desktop\RoomLibraryPavlova\obj\Debug\RoomLibraryPavlova.pdb
